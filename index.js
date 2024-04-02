@@ -65,5 +65,5 @@ function initMenuSystem(menu) {
     displayMenuItems(menu);
 }
 
-// Start the menu system by calling the init function
+// Start the menu system by calling the initialise function
 initMenuSystem(menu);
